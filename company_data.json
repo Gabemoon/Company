@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Gabriel",
+        "age": 70,
+        "salary": 120000.0,
+        "role": "Advent"
+    },
+    {
+        "name": "Byron",
+        "age": 23,
+        "salary": 0.0,
+        "role": "Dogshit"
+    },
+    {
+        "name": "Lukinhas",
+        "age": 26,
+        "salary": 1000000.0,
+        "role": "Engineer"
+    }
+]
